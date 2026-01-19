@@ -97,7 +97,7 @@ Ubicado en la carpeta `node-red/`:
 ## 👥 Autores
 
 - **Israel Delgado**
-- **Anthony Domínguez**
+- **Anthony Dominguez**
 - **Sebastián Guazhima**
 
 ---
@@ -105,3 +105,4 @@ Ubicado en la carpeta `node-red/`:
 ## 📜 Licencia
 
 Este proyecto se distribuye con fines académicos y educativos.
+
